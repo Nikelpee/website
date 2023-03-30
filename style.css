@@ -1,0 +1,151 @@
+*{
+    box-sizing: border-box;
+    padding:5px;
+}
+
+.home{
+    background-image: url(1200px-Muse_in_Sydney.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.about{
+    background-image: url(Classical_spectacular10.jpeg);
+      
+}
+
+
+.events{
+        background-image: url(20220912-tips-nonton-konser-pertama-kali-banner.jpeg);
+
+}
+
+.gallaries{
+          background-image: url(1200px-Muse_in_Sydney.jpeg);
+
+}
+
+.contact{
+    background-image: url(20220912-tips-nonton-konser-pertama-kali-banner.jpeg);
+    
+}
+
+
+
+h1 {
+
+    display:flex;
+   justify-content:center;
+   color:black;
+   font-size: 60px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-color:goldenrod;
+   text-shadow: gold 1px 3px;
+
+}
+
+
+h2 {
+    display: flex;
+   justify-content: center;
+   color: lemonchiffon;
+   font-size: 50px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+   background-color: brown;  
+   text-shadow: black 1px 3px;
+}
+
+h3 {
+    display: flex;
+   justify-content: center;
+   color: lemonchiffon;
+   font-size: 30px;
+   background-color: brown ; */
+   text-shadow: black 1px 2px;
+}
+
+h4 {
+    display: flex;
+   justify-content: center;
+   color: lemonchiffon;
+   font-size: 30px;
+   /* background-color: brown ; */
+   /* text-shadow: black 1px 2px; */
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+
+img{
+    display:flex;
+    justify-content: center;
+    /* width: 300px;  */
+    
+
+    
+    /* size: adjust 1px; */
+    
+}
+
+
+
+
+#navbar{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:rgb(0, 0, 0);
+}
+
+#navbar a{
+    color:goldenrod;
+    text-decoration:none;
+    text-shadow:black 1px 1px;
+}
+
+#navbar a:hover{
+color:gold;
+}
+p{
+    background-color: beige;
+
+}
+
+  .image{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+  }
+
+.image2{
+        display: flex;
+        justify-content: center;
+        /* width: 100%; */
+            
+}
+
+.image3{
+        display: flex;
+        justify-content: center;
+
+}
+
+.image4{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+/* .logo{
+      display: flex;
+      justify-content: center;
+      width: 50%;
+} */
